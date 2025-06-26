@@ -13,6 +13,14 @@
     <RSTAT>P</RSTAT>
     <CLSPROXY>X</CLSPROXY>
    </VSEOCLASS>
+   <DESCRIPTIONS_SUB>
+    <SEOSUBCOTX>
+     <CMPNAME>GET_BANK</CMPNAME>
+     <SCONAME>CX_AI_SYSTEM_FAULT</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Communication Error</DESCRIPT>
+    </SEOSUBCOTX>
+   </DESCRIPTIONS_SUB>
   </asx:values>
  </asx:abap>
 </abapGit>
